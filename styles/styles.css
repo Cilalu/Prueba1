@@ -14,3 +14,12 @@
 	height: 40px;
 	font-family: "Univers LT W01_65 Bold1475968", Roboto, Helv
 }
+h1,
+.h1 {
+	font-size: 3.8rem;
+	line-height: 3.8rem;
+	letter-spacing: -0.10rem;
+	font-family: "Univers LT W01_47 Light1475998", Roboto, Helvetica Neue, Helvetica, Arial, sans-serif, 'abbv-iconFont';
+	font-weight: normal;
+	font-style: normal
+}
