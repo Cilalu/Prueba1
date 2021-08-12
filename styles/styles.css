@@ -1,0 +1,16 @@
+.abbv-button-primary,
+.home-hero-carousel .abbv-carousel .abbv-background-container a,
+.abbv-carousel.home-carousel.owl-theme a,
+.insurancePage-firstSectionContainer .abbv-col-6 span>a {
+	border-radius: 22px;
+	font-size: 1.8rem;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	background: linear-gradient(to bottom, #b55388, #962E69 100%);
+	color: #fff;
+	padding: 0px 40px !important;
+	line-height: 1;
+	height: 40px;
+	font-family: "Univers LT W01_65 Bold1475968", Roboto, Helv
+}
